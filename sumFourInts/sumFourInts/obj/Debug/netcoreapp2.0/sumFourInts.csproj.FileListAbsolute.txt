@@ -1,0 +1,11 @@
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\sumFourInts\sumFourInts\bin\Debug\netcoreapp2.0\sumFourInts.deps.json
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\sumFourInts\sumFourInts\bin\Debug\netcoreapp2.0\sumFourInts.runtimeconfig.json
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\sumFourInts\sumFourInts\bin\Debug\netcoreapp2.0\sumFourInts.runtimeconfig.dev.json
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\sumFourInts\sumFourInts\bin\Debug\netcoreapp2.0\sumFourInts.dll
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\sumFourInts\sumFourInts\bin\Debug\netcoreapp2.0\sumFourInts.pdb
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\sumFourInts\sumFourInts\obj\Debug\netcoreapp2.0\sumFourInts.csprojAssemblyReference.cache
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\sumFourInts\sumFourInts\obj\Debug\netcoreapp2.0\sumFourInts.csproj.CoreCompileInputs.cache
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\sumFourInts\sumFourInts\obj\Debug\netcoreapp2.0\sumFourInts.AssemblyInfoInputs.cache
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\sumFourInts\sumFourInts\obj\Debug\netcoreapp2.0\sumFourInts.AssemblyInfo.cs
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\sumFourInts\sumFourInts\obj\Debug\netcoreapp2.0\sumFourInts.dll
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\sumFourInts\sumFourInts\obj\Debug\netcoreapp2.0\sumFourInts.pdb

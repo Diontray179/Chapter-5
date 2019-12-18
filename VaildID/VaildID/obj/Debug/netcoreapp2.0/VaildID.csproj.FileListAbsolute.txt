@@ -1,0 +1,10 @@
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\VaildID\VaildID\bin\Debug\netcoreapp2.0\VaildID.deps.json
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\VaildID\VaildID\bin\Debug\netcoreapp2.0\VaildID.runtimeconfig.json
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\VaildID\VaildID\bin\Debug\netcoreapp2.0\VaildID.runtimeconfig.dev.json
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\VaildID\VaildID\bin\Debug\netcoreapp2.0\VaildID.dll
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\VaildID\VaildID\bin\Debug\netcoreapp2.0\VaildID.pdb
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\VaildID\VaildID\obj\Debug\netcoreapp2.0\VaildID.csproj.CoreCompileInputs.cache
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\VaildID\VaildID\obj\Debug\netcoreapp2.0\VaildID.AssemblyInfoInputs.cache
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\VaildID\VaildID\obj\Debug\netcoreapp2.0\VaildID.AssemblyInfo.cs
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\VaildID\VaildID\obj\Debug\netcoreapp2.0\VaildID.dll
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\VaildID\VaildID\obj\Debug\netcoreapp2.0\VaildID.pdb

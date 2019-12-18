@@ -1,0 +1,10 @@
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\frult-Loops\frult-Loops\bin\Debug\frult-Loops.exe.config
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\frult-Loops\frult-Loops\bin\Debug\frult-Loops.exe
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\frult-Loops\frult-Loops\bin\Debug\frult-Loops.pdb
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\frult-Loops\frult-Loops\obj\Debug\frult-Loops.csprojAssemblyReference.cache
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\frult-Loops\frult-Loops\obj\Debug\frult_Loops.Form1.resources
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\frult-Loops\frult-Loops\obj\Debug\frult_Loops.Properties.Resources.resources
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\frult-Loops\frult-Loops\obj\Debug\frult-Loops.csproj.GenerateResource.cache
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\frult-Loops\frult-Loops\obj\Debug\frult-Loops.csproj.CoreCompileInputs.cache
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\frult-Loops\frult-Loops\obj\Debug\frult-Loops.exe
+C:\Users\dw158600\Desktop\C-sharp projects\Chapter 5\frult-Loops\frult-Loops\obj\Debug\frult-Loops.pdb
